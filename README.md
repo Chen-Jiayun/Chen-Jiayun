@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chen-Jiayun
-- 👀 I’m interested in nothing BUT elegant coding
+- 👀 I’m interested in nothing but elegant coding
 - 🌱 I’m currently learning in NJU
 - 💞️ I’m looking to collaborate on NJU study :)
 - 📫 How to reach me: jiayunchen@smail.nju.edu.cn
